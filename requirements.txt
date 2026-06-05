@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+groq
+httpx
+pydantic
+gradio
+python-multipart
+spitch
+gTTS
